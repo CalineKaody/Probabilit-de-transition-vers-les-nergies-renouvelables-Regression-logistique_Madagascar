@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Probabilité de transition vers les énergies renouvelables — Régression Logistique
 
 ## 📌 Description
@@ -105,10 +104,7 @@ Le programme génère automatiquement :
 
 ---
 
-## 👤 Auteur
+## 👤 Câline
 
 Projet réalisé dans le cadre d’une étude sur la transition énergétique et l’application du machine learning aux données environnementales.
-=======
-# Probabilit-de-transition-vers-les-nergies-renouvelables-Regression-logistique_Madagascar
-Logistic regression model predicting Madagascar's transition to renewable energy using economic and environmental indicators.
->>>>>>> 8d7b311c820ccb015ac3bea46b2b55145eb2c165
+
